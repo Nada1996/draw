@@ -1,0 +1,65 @@
+﻿'bgi.exe': Loaded 'C:\Users\nada\Documents\draw\Debug\bgi.exe', Symbols loaded.
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\user32.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\win32u.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\gdi32.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\gdi32full.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\msvcp_win.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\ucrtbase.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\comdlg32.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\msvcrt.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\combase.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\rpcrt4.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\sspicli.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\cryptbase.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\sechost.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\SHCore.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\shlwapi.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\shell32.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\windows.storage.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\advapi32.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\powrprof.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\profapi.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\ole32.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\oleaut32.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.16299.125_none_d02560fb5f387566\comctl32.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\imm32.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\uxtheme.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\msctf.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\dwmapi.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\ntmarta.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\WinTypes.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\clbcatq.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\UIAutomationCore.dll', Cannot find or open the PDB file
+onecore\com\combase\inc\comcataloghelpers.hpp(67)\combase.dll!747C8550: (caller: 747C82E0) ReturnHr(1) tid(4c34) 80004002 No such interface supported
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\sxs.dll', Cannot find or open the PDB file
+mincore\com\oleaut32\dispatch\ups.cpp(2125)\OLEAUT32.dll!76B7234F: (caller: 76B71EF1) ReturnHr(1) tid(b2c) 8002801D Library not registered.
+mincore\com\oleaut32\dispatch\ups.cpp(2125)\OLEAUT32.dll!76B7234F: (caller: 76B71EF1) ReturnHr(2) tid(b2c) 8002801D Library not registered.
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\oleacc.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\twinapi.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\twinapi.appcore.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\rmclient.dll', Cannot find or open the PDB file
+'bgi.exe': Loaded 'C:\Windows\SysWOW64\bcrypt.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x4c34) has exited with code -1073741510 (0xc000013a).
+The thread 'Win32 Thread' (0x35d4) has exited with code -1073741510 (0xc000013a).
+The thread 'Win32 Thread' (0x3e30) has exited with code -1073741510 (0xc000013a).
+The thread 'Win32 Thread' (0x4ea0) has exited with code -1073741510 (0xc000013a).
+The thread 'Win32 Thread' (0xb2c) has exited with code -1073741510 (0xc000013a).
+The thread 'Win32 Thread' (0x3748) has exited with code -1073741510 (0xc000013a).
+The thread 'Win32 Thread' (0x53a8) has exited with code -1073741510 (0xc000013a).
+The thread 'Win32 Thread' (0x5420) has exited with code -1073741510 (0xc000013a).
+The thread 'Win32 Thread' (0x570c) has exited with code -1073741510 (0xc000013a).
+The thread 'Win32 Thread' (0x39c4) has exited with code -1073741510 (0xc000013a).
+The thread 'Win32 Thread' (0x3da8) has exited with code -1073741510 (0xc000013a).
+The program '[18280] bgi.exe: Native' has exited with code -1073741510 (0xc000013a).
